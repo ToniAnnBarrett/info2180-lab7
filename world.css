@@ -1,0 +1,28 @@
+h1{
+    text-align : center;
+    background-color: #663399;
+    color:  #D8BFD8;
+    padding: 15px;
+    margin: -5px
+}
+
+
+#controls{
+    /*    padding: 10px; */
+    font-size: 20px;
+    margin-left: 0px;
+   background-color: #DA70D6;
+
+}
+
+
+#result{
+    
+    background-color: #E6E6FA;
+    border: 3px solid #DA70D6;
+
+
+        margin-left: 0px;
+
+
+}
